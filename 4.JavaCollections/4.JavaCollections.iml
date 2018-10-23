@@ -10,5 +10,6 @@
     <orderEntry type="library" exported="" name="jackson-core-2.6.1" level="project" />
     <orderEntry type="library" exported="" name="jackson-annotations-2.6.1" level="project" />
     <orderEntry type="library" exported="" name="jackson-databind-2.6.1" level="project" />
+    <orderEntry type="library" name="org.slf4j:slf4j-api:1.7.23" level="project" />
   </component>
 </module>

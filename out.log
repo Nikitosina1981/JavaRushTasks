@@ -38340,3 +38340,12 @@ java.lang.NullPointerException
 2018-12-15 12:44:39 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
 2018-12-15 12:44:39 INFO  ApacheHttpClient.testConnection(201) - result = true
 2018-12-15 12:44:39 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 12:45:38 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 12:46:08 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 12:46:08 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 12:46:38 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 12:46:52 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 12:46:52 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 12:47:37 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 12:47:37 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 12:47:38 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200

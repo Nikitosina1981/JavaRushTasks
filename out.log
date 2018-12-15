@@ -38349,3 +38349,19 @@ java.lang.NullPointerException
 2018-12-15 12:47:37 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
 2018-12-15 12:47:37 INFO  ApacheHttpClient.testConnection(201) - result = true
 2018-12-15 12:47:38 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 12:47:53 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 12:47:53 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 12:48:38 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 12:49:03 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 12:49:03 WARN  JavaRushUtil.getCurrentTask(70) - Ошибка получения ключа задачи.
+2018-12-15 12:49:03 WARN  JavaRushUtil.getCurrentDirectory(101) - Ошибка получения текущей директории.
+2018-12-15 12:49:03 WARN  JavaRushUtil.getCurrentDirectory(101) - Ошибка получения текущей директории.
+2018-12-15 12:49:03 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-15 12:49:03 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-12-15 12:49:03 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 12:49:06 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 12:49:06 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 12:49:09 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 12:49:09 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 12:49:38 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 12:50:38 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
